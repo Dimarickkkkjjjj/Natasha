@@ -1,0 +1,7 @@
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\bin\Debug\Podpivko5.exe.config
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\bin\Debug\Podpivko5.exe
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\bin\Debug\Podpivko5.pdb
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\obj\Debug\Podpivko5.csproj.AssemblyReference.cache
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\obj\Debug\Podpivko5.csproj.CoreCompileInputs.cache
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\obj\Debug\Podpivko5.exe
+C:\Users\Dimarickkkjjjj\Desktop\Podpivko5\Podpivko5\Podpivko5\obj\Debug\Podpivko5.pdb

@@ -10,7 +10,13 @@ namespace Podpivko5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Write A");
+            int A = int.Parse(Console.ReadLine());
+            Console.WriteLine("Write B");
+            int B = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Select operation + - * /");
+            string op = Console.ReadLine();
         }
     }
 }
